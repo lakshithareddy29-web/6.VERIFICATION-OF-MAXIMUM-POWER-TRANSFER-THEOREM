@@ -65,7 +65,7 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 **MARK SPLITUP**
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/9ccc7c15-ee76-490c-9104-cc905751ec64" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e921c506-96d1-4475-b2ad-17984344302f" />
 
 
 **RESULT:**
